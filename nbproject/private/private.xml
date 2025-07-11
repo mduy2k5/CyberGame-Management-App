@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Statistic_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/otherfunction/LoginUIVer1.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/swing/Button.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Revenue_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/AreaType_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Area_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Computer_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/CustomerType_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Customer_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Deposit_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Device_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/EmployeeType_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Employee_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Event_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Expense_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Financial_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Import_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Infomation_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/LeaveDay_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Leave_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/PlayerHistory_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Promotion_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Product_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/ReplaceDevice_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/Supllier_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/WorkingHours_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/managerform/UsedService_Manager.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/receptionform/Customer_Reception.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/receptionform/Deposit_Reception.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/receptionform/ExchangeGift_Reception.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/receptionform/Information_Reception.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/receptionform/WorkingHours_Reception.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/receptionmain/createReceptionMainPanel.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/serviceform/Information_Service.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/serviceform/NonService_Service.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/serviceform/WorkingHours_Service.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/technicalform/ChangeAreaStatus_Technical.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/technicalform/Information_Technical.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/technicalform/ChangeDeviceStatus_Technical.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/technicalform/PlaceDevice_Technical.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/technicalform/WorkingHours_Technical.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/technicalform/ReplaceDevice_Technical.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/customerform/Deposit_Customer.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/customerform/ExchangeGift_Customer.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/customerform/Information_Customer.java</file>
+            <file>file:/F:/Code/Java/DOAN%20-%20Ver%200.7/CyberGameManagementApp/CGMApp%20-%2013072025%20-%20VietHoa%20-%20Khuyenmai%20-%20vv/src/com/raven/customerform/PlayerHistory_Customer.java</file>
+        </group>
+    </open-files>
+</project-private>
