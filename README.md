@@ -3,13 +3,13 @@
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
-| STT    | Họ và Tên              | Github                                               |
-| ------ | ----------------------:|-----------------------------------------------------:|
-| 1      | Nguyễn Võ Ngọc Bảo     |[AdamNbz](https://github.com/AdamNbz)                 |
-| 2      | Lê Nguyễn Thành Công   |[LibraJeager](https://github.com/LibraJeager)         |
-| 3      | Mai Nguyễn Bảo Duy     |[mduy2k5](https://github.com/mduy2k5)                 |
-| 4      | Trần Đại Hải           |[TranDaiHai2107](https://github.com/TranDaiHai2107)   |
-| 5      | Huỳnh Doãn Khải Duy    |                                                      |
+| STT    | Họ và Tên                            | Github                                               |
+| ------ | ------------------------------------:|-----------------------------------------------------:|
+| 1      | Nguyễn Võ Ngọc Bảo                   |[AdamNbz](https://github.com/AdamNbz)                 |
+| 2      | Lê Nguyễn Thành Công                 |[LibraJeager](https://github.com/LibraJeager)         |
+| 3      | Mai Nguyễn Bảo Duy                   |[mduy2k5](https://github.com/mduy2k5)                 |
+| 4      | Trần Đại Hải                         |[TranDaiHai2107](https://github.com/TranDaiHai2107)   |
+| 5      | Huỳnh Doãn Khải Duy                  |                                                      |
 ## MÔ TẢ DỰ ÁN
 Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là thiết kế và xây dựng một phần mềm quản lý toàn diện, tích hợp đầy đủ các chức năng cần thiết nhằm nâng cao hiệu quả quản lý cho các Cybergame.
 
