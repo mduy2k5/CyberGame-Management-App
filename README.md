@@ -15,16 +15,16 @@ Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là 
 
 # Yêu cầu chức năng
 ## A. Quản lý máy tính, khu vực:
-  #### 1. Danh sách máy trạm:
-    - Lưu trữ thông tin từng máy (ID máy, cấu hình phần cứng, trạng thái hoạt động).
-    - Theo dõi tình trạng hoạt động (đang sử dụng, hỏng hóc, bảo trì).
-  #### 2. Danh sách các khu vực
-    - Lưu trữ thông tin theo từng khu vực (Classic, Vip, Couple, Esports,…)
-    - Theo dõi tình trạng các khu vực (bảo trì, đang hoạt động)
-**B. Quản lý khách hàng**
-  b.1. Đăng ký tài khoản:
-    • Khách hàng đăng ký tài khoản thành viên.
-    • Quản lý thông tin khách hàng (tên, số điện thoại, lịch sử sử dụng, số dư còn lại).
+#### 1. Danh sách máy trạm:
+- Lưu trữ thông tin từng máy (ID máy, cấu hình phần cứng, trạng thái hoạt động).
+- Theo dõi tình trạng hoạt động (đang sử dụng, hỏng hóc, bảo trì).
+#### 2. Danh sách các khu vực
+- Lưu trữ thông tin theo từng khu vực (Classic, Vip, Couple, Esports,…)
+- Theo dõi tình trạng các khu vực (bảo trì, đang hoạt động)
+## B. Quản lý khách hàng**
+### 1. Đăng ký tài khoản:
+- Khách hàng đăng ký tài khoản thành viên.
+- Quản lý thông tin khách hàng (tên, số điện thoại, lịch sử sử dụng, số dư còn lại).
   b.2. Quản lý giờ chơi:
     • Theo dõi thời gian sử dụng của từng khách hàng.
     • Gửi thông báo nhắc nhở khi gần hết giờ.
