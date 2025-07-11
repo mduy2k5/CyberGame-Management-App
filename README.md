@@ -26,10 +26,8 @@ Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là 
 - Khách hàng đăng ký tài khoản thành viên.
 - Quản lý thông tin khách hàng (tên, số điện thoại, lịch sử sử dụng, số dư còn lại).
 ### 2. Quản lý giờ chơi:
-- Theo dõi thời gian sử dụng của từng khách hàng.
-- Gửi thông báo nhắc nhở khi gần hết giờ.
+- Theo dõi thời gian sử dụng.
 ### 3. Khuyến mãi và ưu đãi:
-- Hỗ trợ gói giảm giá cho thành viên VIP hoặc khách hàng thân thiết.
 - Tích điểm thưởng đổi quà như: dịch vụ, hạng khách hàng, hiện vật,…..
 - Tự động tính khuyến mãi cho khách theo chương trình khuyến mãi của Cybergame
 ## C. Quản lý tài chính
@@ -49,14 +47,16 @@ Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là 
 ### 2. Bán hàng tích hợp:
 - Ghi nhận đơn đặt hàng từ khách hàng (thông qua nhân viên hoặc hệ thống tự động trên máy).
 - Thống kê doanh số bán đồ ăn, thức uống.
-### 3. Quản lý các bộ phận tồn kho thiết bị: Bàn phím, chuột, màn hình, ram, rom
+### 3. Quản lý thiết bị: 
+- Quản lý thiết bị: Bàn phím, chuột, màn hình, ram, rom
+- Báo cáo thiết bị hư hỏng
+- Lắp đặt, thay thế thiết bị
 ## E. Quản lý nhân viên
 ### 1. Quản lý thông tin nhân viên
 - Quản lý các thông tin cơ bản của nhân viên (Họ tên, ngày sinh …)
-- Công việc của nhân viên, lương hàng giờ.
+- Công việc của nhân viên.
 ### 2. Phân công ca làm việc:
-- Lập lịch làm việc cho nhân viên.
-- Theo dõi giờ làm và chấm công tự động.
+- Theo dõi giờ làm.
 - Quản lý lịch nghỉ phép của nhân viên.
 ## F. An ninh và kiểm soát (Option)
 ### 1. Quản lý đăng nhập:
@@ -68,11 +68,11 @@ Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là 
 - Lưu trữ dữ liệu video trong thời gian quy định.
 ## G. Báo cáo tổng hợp
 ### 1. Thống kê doanh số:
-- Tổng hợp số giờ sử dụng của từng máy.
-- Thống kê số lượng khách hàng theo thời gian.
-### 2. Đánh giá kinh doanh:
-- Phân tích các gói dịch vụ, san phẩm phổ biến.
-- Đưa ra đề xuất tối ưu hóa dịch vụ và chi phí.
+- Thống kê thời gian sử dụng.
+- Thống kê dịch vụ khách hàng đã dùng
+### 2. Xuất báo cáo thống kê:
+- Xuất file PDF
+- Xuất file Excel
 ## H. Quản lý sự kiện quan trọng và khuyến mãi
 - Tạo sự kiện: Quản lý các sự kiện đặc biệt như giải đấu game, khuyến mãi giờ vàng, v.v.
 - Quản lý khuyến mãi: Tạo và quản lý các chương trình khuyến mãi, giảm giá cho khách hàng.
