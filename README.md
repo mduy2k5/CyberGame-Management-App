@@ -17,12 +17,12 @@
 # HƯỚNG DẪN SỬ DỤNG
 - Chạy file Hash.java (src/otherfunction/Hash.java) tạo mật khẩu cho một tài khoản, sau đó thêm vào các bảng USERS, ACCOUNT, NHANVIEN/ KHACHHANG
 - Hoặc có thể sử dụng các tài khoản có sẳn để truy cập vào các tính năng (mật khẩu trùng với sdt đăng nhập): 
-- Admin: 0911111111
-- Reception: 0922222222
-- Technical: 0933333333
-- Service: 0944444444
-- Security: 0955555555
-- Customer: 0966666666
+Admin: 0911111111
+Reception: 0922222222
+Technical: 0933333333
+Service: 0944444444
+Security: 0955555555
+Customer: 0966666666
 # MÔ TẢ DỰ ÁN
 Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là thiết kế và xây dựng một phần mềm quản lý toàn diện, tích hợp đầy đủ các chức năng cần thiết nhằm nâng cao hiệu quả quản lý cho các Cybergame.
 
