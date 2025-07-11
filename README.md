@@ -12,19 +12,10 @@
 | 5      | Huỳnh Doãn Khải Duy    |                                                      |
 ## MÔ TẢ DỰ ÁN
 Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là thiết kế và xây dựng một phần mềm quản lý toàn diện, tích hợp đầy đủ các chức năng cần thiết nhằm nâng cao hiệu quả quản lý cho các Cybergame.
-### 2.3.1.7. Báo cáo tổng hợp
-
-#### 1. Thống kê doanh số:
-- Tổng hợp số giờ sử dụng của từng máy.  
-- Thống kê số lượng khách hàng theo thời gian.
-
-#### 2. Đánh giá kinh doanh:
-- Phân tích các gói dịch vụ, sản phẩm phổ biến.  
-- Đưa ra đề xuất tối ưu hóa dịch vụ và chi phí.
 
 # Yêu cầu chức năng
-A. Quản lý máy tính, khu vực:
-  a.1. Danh sách máy trạm:
+## A. Quản lý máy tính, khu vực:
+  ### 1. Danh sách máy trạm:
     • Lưu trữ thông tin từng máy (ID máy, cấu hình phần cứng, trạng thái hoạt động).
     • Theo dõi tình trạng hoạt động (đang sử dụng, hỏng hóc, bảo trì).
   a.2. Danh sách các khu vực
