@@ -63,9 +63,9 @@ Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là 
 - Yêu cầu khách hàng đăng nhập tài khoản trước khi sử dụng máy.
 - Theo dõi lịch sử truy cập và tải xuống của từng máy để đảm bảo an ninh.
 - Quản lý lịch sử truy cập hệ thống của nhân viên
-  f.2. Camera giám sát:
-    • Tích hợp hệ thống camera giám sát toàn bộ khu vực .
-    • Lưu trữ dữ liệu video trong thời gian quy định.
+### 2. Camera giám sát:
+- Tích hợp hệ thống camera giám sát toàn bộ khu vực.
+- Lưu trữ dữ liệu video trong thời gian quy định.
 ## G. Báo cáo tổng hợp
 ### 1. Thống kê doanh số:
 - Tổng hợp số giờ sử dụng của từng máy.
