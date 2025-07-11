@@ -13,7 +13,7 @@
 ## MÔ TẢ DỰ ÁN
 Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là thiết kế và xây dựng một phần mềm quản lý toàn diện, tích hợp đầy đủ các chức năng cần thiết nhằm nâng cao hiệu quả quản lý cho các Cybergame.
 # Yêu cầu chức năng
-A. Quản lý máy tính, khu vực
+A. Quản lý máy tính, khu vực:
   a.1. Danh sách máy trạm:
     • Lưu trữ thông tin từng máy (ID máy, cấu hình phần cứng, trạng thái hoạt động).
     • Theo dõi tình trạng hoạt động (đang sử dụng, hỏng hóc, bảo trì).
