@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center"><b>CYBERGAME MANAGEMENT APPLICATION - Vườn Sao Băng</b></h1>
 
-## THÀNH VIÊN NHÓM
+# THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
 | STT    | Họ và Tên                            | Github                                               |
 | ------ | ------------------------------------:|-----------------------------------------------------:|
@@ -10,7 +10,20 @@
 | 3      | Mai Nguyễn Bảo Duy                   |[mduy2k5](https://github.com/mduy2k5)                 |
 | 4      | Trần Đại Hải                         |[TranDaiHai2107](https://github.com/TranDaiHai2107)   |
 | 5      | Huỳnh Doãn Khải Duy                  |                                                      |
-## MÔ TẢ DỰ ÁN
+# CÔNG NGHỆ SỬ DỤNG
+- Java (Apache Netbeans)
+- Oracle
+
+# HƯỚNG DẪN SỬ DỤNG
+- Chạy file Hash.java (src/otherfunction/Hash.java) tạo mật khẩu cho một tài khoản, sau đó thêm vào các bảng USERS, ACCOUNT, NHANVIEN/ KHACHHANG
+- Hoặc có thể sử dụng các tài khoản có sẳn để truy cập vào các tính năng (mật khẩu trùng với sdt đăng nhập): 
+- Admin: 0911111111
+- Reception: 0922222222
+- Technical: 0933333333
+- Service: 0944444444
+- Security: 0955555555
+- Customer: 0966666666
+# MÔ TẢ DỰ ÁN
 Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là thiết kế và xây dựng một phần mềm quản lý toàn diện, tích hợp đầy đủ các chức năng cần thiết nhằm nâng cao hiệu quả quản lý cho các Cybergame.
 
 # Yêu cầu chức năng
