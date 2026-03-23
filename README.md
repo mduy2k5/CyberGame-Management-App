@@ -92,3 +92,6 @@ Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là 
 ## I. Tích lũy điểm quy đổi nhận quà
 - Khách hàng tích lũy điểm qua quá trình chơi bằng cách nạp tiền hoặc chơi các trò chơi mà Cybergame tự tổ chức, hoặc sử dụng các dịch vụ, sản phẩm của quán.
 - Khách hàng quy đổi quà (hiện vật, dịch vụ,..) bằng điểm tích lũy.
+
+#Giấy phép
+Dự án nhằm phục vụ môn học tại Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM. Vui lòng không sử dụng mục đích khác ngoài mục đích tham khảo.
