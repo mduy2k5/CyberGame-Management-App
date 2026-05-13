@@ -1,97 +1,126 @@
 <!-- Title -->
 <h1 align="center"><b>CYBERGAME MANAGEMENT APPLICATION - Vườn Sao Băng</b></h1>
 
-# THÀNH VIÊN NHÓM
-<a name="thanhvien"></a>
-| STT    | Họ và Tên                            | Github                                               |
-| ------ | ------------------------------------:|-----------------------------------------------------:|
-| 1      | Nguyễn Võ Ngọc Bảo                   |[AdamNbz](https://github.com/AdamNbz)                 |
-| 2      | Lê Nguyễn Thành Công                 |[LibraJeager](https://github.com/LibraJeager)         |
-| 3      | Mai Nguyễn Bảo Duy                   |[mduy2k5](https://github.com/mduy2k5)                 |
-| 4      | Trần Đại Hải                         |[TranDaiHai2107](https://github.com/TranDaiHai2107)   |
-| 5      | Huỳnh Doãn Khải Duy                  |                                                      |
-# CÔNG NGHỆ SỬ DỤNG
-- Java (Apache Netbeans)
+# TEAM MEMBERS
+<a name="members"></a>
+| No. | Full Name                           | Github                                               |
+| ----| ----------------------------------- | ---------------------------------------------------- |
+| 1   | Nguyen Vo Ngoc Bao                 | [AdamNbz](https://github.com/AdamNbz)               |
+| 2   | Le Nguyen Thanh Cong               | [LibraJeager](https://github.com/LibraJeager)       |
+| 3   | Mai Nguyen Bao Duy                 | [mduy2k5](https://github.com/mduy2k5)               |
+| 4   | Tran Dai Hai                       | [TranDaiHai2107](https://github.com/TranDaiHai2107) |
+| 5   | Huynh Doan Khai Duy                |                                                      |
+
+# TECHNOLOGIES USED
+- Java (Apache NetBeans)
 - Oracle
 
-# HƯỚNG DẪN SỬ DỤNG
-- Chạy file Hash.java (src/otherfunction/Hash.java) tạo mật khẩu cho một tài khoản, sau đó thêm vào các bảng USERS, ACCOUNT, NHANVIEN/ KHACHHANG
-- Hoặc có thể sử dụng các tài khoản có sẳn để truy cập vào các tính năng (mật khẩu trùng với sdt đăng nhập): 
-Admin: 0911111111
-Reception: 0922222222
-Technical: 0933333333
-Service: 0944444444
-Security: 0955555555
-Customer: 0966666666
-# MÔ TẢ DỰ ÁN
-Mục tiêu chính của đề tài “Hệ thống quản lý Cybergame” là thiết kế và xây dựng một phần mềm quản lý toàn diện, tích hợp đầy đủ các chức năng cần thiết nhằm nâng cao hiệu quả quản lý cho các Cybergame.
+# USER GUIDE
+- Run the `Hash.java` file (`src/otherfunction/Hash.java`) to generate a password for an account, then insert it into the `USERS`, `ACCOUNT`, and `NHANVIEN/KHACHHANG` tables.
+- Or use the pre-existing accounts below to access the system features (password is the same as the login phone number):
 
-# Yêu cầu chức năng
-## A. Quản lý máy tính, khu vực
-#### 1. Danh sách máy trạm:
-- Lưu trữ thông tin từng máy (ID máy, cấu hình phần cứng, trạng thái hoạt động).
-- Theo dõi tình trạng hoạt động (đang sử dụng, hỏng hóc, bảo trì).
-#### 2. Danh sách các khu vực
-- Lưu trữ thông tin theo từng khu vực (Classic, Vip, Couple, Esports,…)
-- Theo dõi tình trạng các khu vực (bảo trì, đang hoạt động)
-## B. Quản lý khách hàng
-### 1. Đăng ký tài khoản:
-- Khách hàng đăng ký tài khoản thành viên.
-- Quản lý thông tin khách hàng (tên, số điện thoại, lịch sử sử dụng, số dư còn lại).
-### 2. Quản lý giờ chơi:
-- Theo dõi thời gian sử dụng.
-### 3. Khuyến mãi và ưu đãi:
-- Tích điểm thưởng đổi quà như: dịch vụ, hạng khách hàng, hiện vật,…..
-- Tự động tính khuyến mãi cho khách theo chương trình khuyến mãi của Cybergame
-## C. Quản lý tài chính
-### 1. Thu phí sử dụng:
-- Tính phí theo thời gian chơi (theo giờ).
-- Hỗ trợ thanh toán trực tiếp hoặc qua ví điện tử.
-### 2. Báo cáo doanh thu:
-- Tổng hợp doanh thu theo ngày, tháng.
-- Phân loại nguồn thu: phí giờ chơi, bán đồ ăn, thức uống, dịch vụ khác (Nạp game, mua thẻ game, bán key bản quyền game).
-### 3. Theo dõi chi phí:
-- Quản lý chi phí vận hành: điện, nước, internet, bảo trì máy móc
-- Quản lý chi phí lương nhân viên
-## D. Quản lý sản phẩm
-### 1. Quản lý đồ ăn và thức uống:
-- Lưu trữ danh sách sản phẩm có sẵn (mì gói, nước uống, snack, v.v.).
-- Theo dõi tồn kho.
-### 2. Bán hàng tích hợp:
-- Ghi nhận đơn đặt hàng từ khách hàng (thông qua nhân viên hoặc hệ thống tự động trên máy).
-- Thống kê doanh số bán đồ ăn, thức uống.
-### 3. Quản lý thiết bị: 
-- Quản lý thiết bị: Bàn phím, chuột, màn hình, ram, rom
-- Báo cáo thiết bị hư hỏng
-- Lắp đặt, thay thế thiết bị
-## E. Quản lý nhân viên
-### 1. Quản lý thông tin nhân viên
-- Quản lý các thông tin cơ bản của nhân viên (Họ tên, ngày sinh …)
-- Công việc của nhân viên.
-### 2. Phân công ca làm việc:
-- Theo dõi giờ làm.
-- Quản lý lịch nghỉ phép của nhân viên.
-## F. An ninh và kiểm soát (Option)
-### 1. Quản lý đăng nhập:
-- Yêu cầu khách hàng đăng nhập tài khoản trước khi sử dụng máy.
-- Theo dõi lịch sử truy cập và tải xuống của từng máy để đảm bảo an ninh.
-- Quản lý lịch sử truy cập hệ thống của nhân viên
-### 2. Camera giám sát:
-- Tích hợp hệ thống camera giám sát toàn bộ khu vực.
-- Lưu trữ dữ liệu video trong thời gian quy định.
-## G. Báo cáo tổng hợp
-### 1. Thống kê doanh số:
-- Thống kê thời gian sử dụng.
-- Thống kê dịch vụ khách hàng đã dùng
-### 2. Xuất báo cáo thống kê:
-- Xuất file PDF
-- Xuất file Excel
-## H. Quản lý sự kiện quan trọng và khuyến mãi
-- Tạo sự kiện: Quản lý các sự kiện đặc biệt như giải đấu game, khuyến mãi giờ vàng, v.v.
-- Quản lý khuyến mãi: Tạo và quản lý các chương trình khuyến mãi, giảm giá cho khách hàng.
-## I. Tích lũy điểm quy đổi nhận quà
-- Khách hàng tích lũy điểm qua quá trình chơi bằng cách nạp tiền hoặc chơi các trò chơi mà Cybergame tự tổ chức, hoặc sử dụng các dịch vụ, sản phẩm của quán.
-- Khách hàng quy đổi quà (hiện vật, dịch vụ,..) bằng điểm tích lũy.
+Admin: 0911111111  
+Reception: 0922222222  
+Technical: 0933333333  
+Service: 0944444444  
+Security: 0955555555  
+Customer: 0966666666  
 
-#Giấy phép
-Dự án nhằm phục vụ môn học tại Trường Đại học Công nghệ Thông tin - ĐHQG TP.HCM. Vui lòng không sử dụng mục đích khác ngoài mục đích tham khảo.
+# PROJECT DESCRIPTION
+The main objective of the “Cybergame Management System” project is to design and develop a comprehensive management software that integrates all essential functionalities to improve the operational efficiency of Cybergame centers.
+
+# FUNCTIONAL REQUIREMENTS
+
+## A. Computer and Area Management
+
+### 1. Workstation List
+- Store information for each computer (Computer ID, hardware specifications, operating status).
+- Monitor operational conditions (in use, damaged, under maintenance).
+
+### 2. Area List
+- Store information for each area (Classic, VIP, Couple, Esports, etc.).
+- Monitor area status (under maintenance, active).
+
+## B. Customer Management
+
+### 1. Account Registration
+- Customers can register membership accounts.
+- Manage customer information (name, phone number, usage history, remaining balance).
+
+### 2. Playtime Management
+- Track customer usage time.
+
+### 3. Promotions and Rewards
+- Reward points can be exchanged for services, customer ranks, gifts, etc.
+- Automatically apply promotions based on the Cybergame’s promotional programs.
+
+## C. Financial Management
+
+### 1. Usage Fee Collection
+- Calculate fees based on playtime (hourly billing).
+- Support direct payment or e-wallet payment methods.
+
+### 2. Revenue Reports
+- Summarize revenue by day and month.
+- Categorize income sources: playtime fees, food and beverage sales, and other services (game top-ups, game cards, game license keys).
+
+### 3. Expense Tracking
+- Manage operational expenses: electricity, water, internet, and equipment maintenance.
+- Manage employee salary expenses.
+
+## D. Product Management
+
+### 1. Food and Beverage Management
+- Store available products (instant noodles, drinks, snacks, etc.).
+- Track inventory status.
+
+### 2. Integrated Sales Management
+- Record customer orders (through employees or automated systems on computers).
+- Generate sales statistics for food and beverages.
+
+### 3. Equipment Management
+- Manage equipment such as keyboards, mice, monitors, RAM, and storage devices.
+- Report damaged equipment.
+- Install and replace equipment.
+
+## E. Employee Management
+
+### 1. Employee Information Management
+- Manage basic employee information (full name, date of birth, etc.).
+- Manage employee responsibilities and roles.
+
+### 2. Shift Assignment
+- Track working hours.
+- Manage employee leave schedules.
+
+## F. Security and Control (Optional)
+
+### 1. Login Management
+- Require customers to log in before using computers.
+- Monitor access and download history on each computer to ensure security.
+- Manage employee system access logs.
+
+### 2. Surveillance Cameras
+- Integrate a camera monitoring system covering all areas.
+- Store video data for a specified period.
+
+## G. General Reports
+
+### 1. Sales Statistics
+- Generate usage time statistics.
+- Generate statistics of customer-used services.
+
+### 2. Export Statistical Reports
+- Export reports as PDF files.
+- Export reports as Excel files.
+
+## H. Event and Promotion Management
+- Create events: manage special events such as gaming tournaments, happy hours, etc.
+- Promotion management: create and manage discount and promotional programs for customers.
+
+## I. Reward Point Accumulation and Redemption
+- Customers earn points through topping up accounts, participating in games organized by the Cybergame, or using the shop’s services and products.
+- Customers can redeem gifts (physical items, services, etc.) using accumulated points.
+
+# LICENSE
+This project was developed for academic purposes at the :contentReference[oaicite:0]{index=0}. Please do not use it for purposes other than reference and learning.
