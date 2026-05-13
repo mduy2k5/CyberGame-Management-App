@@ -123,4 +123,4 @@ The main objective of the “Cybergame Management System” project is to design
 - Customers can redeem gifts (physical items, services, etc.) using accumulated points.
 
 # LICENSE
-This project was developed for academic purposes at University University of Information Technology (UIT) - Ho Chi Minh City National University. Please do not use it for purposes other than reference and learning.
+This project was developed for academic purposes at University of Information Technology (UIT) - Ho Chi Minh City National University. Please do not use it for purposes other than reference and learning.
